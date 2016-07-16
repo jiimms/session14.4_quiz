@@ -25,7 +25,7 @@ has_and_belongs_to_many
 
 4.Relationship and callbacks can be defined in  
 a) Controller  
-b) Model  --correct(callbacks are also included in controllers)
+b) Model  --correct
 c) View  
 d) None  
 
