@@ -1,0 +1,36 @@
+Quiz
+
+1. Rails active record have …… types of association  
+a) 7  
+b) 6 --correct  
+c) 8  
+d) None 
+
+2.Callbacks can be called at………….. Object creation  
+a) before  
+b) around  
+c) after  
+d) all the above --correct
+
+3. Many - Many relationship can be classified into……….. Types  
+a) two  
+b) three  
+c) four  
+d) None  
+
+Not clear of the question:
+has_many
+has_many :through
+has_and_belongs_to_many
+
+4.Relationship and callbacks can be defined in  
+a) Controller  
+b) Model  --correct(callbacks are also included in controllers)
+c) View  
+d) None  
+
+5. Instead of using Raw SQL Queries you can use 
+a) Query Interface --correct
+b) Model 
+c) Migration 
+d) None   
